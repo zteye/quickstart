@@ -1,4 +1,4 @@
-package com.zteye.quickstart;
+package com.zteye.quickstart.optional;
 
 import java.util.Optional;
 import java.util.Properties;
